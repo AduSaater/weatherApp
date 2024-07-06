@@ -33,7 +33,6 @@ This is a simple Flutter weather application that displays current weather infor
 1. Clone the repository
     ```bash
     git clone https://github.com/AduSaater/weatherApp.git
-    cd weather_app
     ```
 
 2. Install dependencies
